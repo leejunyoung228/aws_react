@@ -1,2 +1,2 @@
-cd /home/ubuntu/aws-app
+cd /home/ubuntu/aws-react
 git pull
