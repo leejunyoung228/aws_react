@@ -23,6 +23,4 @@ jobs:
           username: ${{ secrets.USER }}
           script: |
             cd aws-react
-            git pull 
-            pm2 stop index
-            pm2 start index
+            git pull
